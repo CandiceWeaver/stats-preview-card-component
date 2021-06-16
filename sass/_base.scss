@@ -13,7 +13,7 @@ $font-primary: "Inter", sans-serif;
 $font-secondary: "Lexend Deca", sans-serif;
 
 // Responsive Breakpoints
-$bp-mobile: 353px;
+$bp-mobile: 900px;
 
 // Base Styles
 *,
@@ -41,4 +41,9 @@ body {
 
 .attribution {
   align-self: center;
+
+  @media only screen and (max-width: $bp-mobile) {
+    width: 80%;
+    text-align: center;
+  }
 }
