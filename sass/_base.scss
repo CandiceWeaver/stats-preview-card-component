@@ -1,0 +1,44 @@
+// Colours
+$colour-primary-dark: hsl(233, 47%, 7%);
+$colour-primary: hsl(244, 38%, 16%);
+$colour-primary-light: hsl(277, 64%, 61%);
+
+$colour-grey-light: hsla(0, 0%, 100%, 0.75);
+$colour-grey-dark: hsla(0, 0%, 100%, 0.6);
+
+$colour-white: hsl(0, 0%, 100%);
+
+// Fonts
+$font-primary: "Inter", sans-serif;
+$font-secondary: "Lexend Deca", sans-serif;
+
+// Responsive Breakpoints
+$bp-mobile: 353px;
+
+// Base Styles
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: inherit;
+}
+
+html {
+  box-sizing: border-box;
+  font-size: 15px;
+}
+
+body {
+  font-family: $font-primary;
+  color: $colour-white;
+  font-weight: 400;
+  background-color: $colour-primary-dark;
+  display: grid;
+  justify-items: center;
+  height: 100vh;
+}
+
+.attribution {
+  align-self: center;
+}
