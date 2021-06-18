@@ -30,7 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github](https://github.com/CandiceWeaver/stats-preview-card-component)
+- Solution URL: [Github] https://github.com/CandiceWeaver/stats-preview-card-component
+- Live Site URL: [Vercel] https://stats-preview-card-component-olive.vercel.app/
 
 ## My process
 
@@ -54,6 +55,6 @@ I found the process of making the component responsive on mobile more difficult 
 
 ## Author
 
-- Website - [Candice Weaver Developments](www.candiceweaver.dev)
+- Website - [Candice Weaver Developments](https://www.candiceweaver.dev)
 - Frontend Mentor - [@CandiceWeaver](https://www.frontendmentor.io/profile/CandiceWeaver)
 - Twitter - [@\_CandiceWeaver](https://www.twitter.com/_CandiceWeaver)
