@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Screenshot
 
--[Desktop version](images\Stats-preview-card-component-Desktop.png) -[Mobile version](images\Stats-preview-card-component-mobile.png)
+![Desktop version](images\Stats-preview-card-component-Desktop.png) -![Mobile version](images\Stats-preview-card-component-mobile.png)
 
 ### Links
 
