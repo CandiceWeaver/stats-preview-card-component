@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github](https://github.com/CandiceWeaver/stats-preview-card-component)
-- Live Site URL: [Vercel](https://stats-preview-card-component-olive.vercel.app/)
+- Solution: [Github](https://github.com/CandiceWeaver/stats-preview-card-component)
+- Live Site: [Vercel](https://stats-preview-card-component-olive.vercel.app/)
 
 ## My process
 
